@@ -1,0 +1,37 @@
+/* 
+    Created on : 12 ago 2024, 12:47:32
+    Author     : LugoUAdeC
+*/
+
+:root{
+    --blanco:#FFFFFF;
+    --oscuro:#212121;
+    --primario:#ffc107;
+    --secundario:#0097a7;
+    --gris: #757575;
+    
+    --fuente-principal: 3.8rem;
+    
+}
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 16px; /*1rem = 10px*/
+    font-family: 'Krub', sans-serif;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 3.8rem;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-weight: normal;
+    /*color: var(--primario);*/
+    
+}
+
+.titulo span{
+    
+    font-size: 2rem;
+}
